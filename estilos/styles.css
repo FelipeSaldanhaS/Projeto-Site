@@ -14,3 +14,14 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
+
+.lado{
+    float: right;
+    height: 100px;
+    width: 100px;
+}
+
+.principal{
+    width: 580px;
+    height: 300px;
+}
